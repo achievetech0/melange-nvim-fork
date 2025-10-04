@@ -17,10 +17,10 @@ return {
     magenta = "#CF9BC2",
   },
   c = {
-    red     = "#BD8183",
+    red     = "#f16e69",
     yellow  = "#E49B5D",
-    green   = "#78997A",
-    cyan    = "#7B9695",
+    green   = "#9ab571",
+    cyan    = "#82a69f",
     blue    = "#7F91B2",
     magenta = "#B380B0",
   },
